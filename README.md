@@ -61,7 +61,7 @@ BASE URL : https://me-api-playground-fhxr.onrender.com
 ### Installation & Running
 bash
 # Clone the repository
-git clone https://github.com/SupriyaKatiyar24/me-api-playground.git
+git clone https://github.com/sooyaaa98/me-api-playground.git
 cd me-api-playground
 
 # Install dependencies
@@ -132,16 +132,7 @@ CORS headers are properly set
 
 Error handling works as expected
 
-API Testing with curl
-bash
-# Test health endpoint
-curl -X GET https://supriya-me-api.onrender.com/health
 
-# Test skills endpoint
-curl -X GET https://supriya-me-api.onrender.com/skills
-
-# Test project filtering
-curl -X GET "https://supriya-me-api.onrender.com/projects?skill=python"
 📊 Performance Considerations
 Database Indexing: Automatic indexing on primary keys
 
@@ -205,7 +196,7 @@ Open Source Community for amazing tools and libraries
 📞 Connect With Me
 Portfolio: (Currently working on it)
 
-GitHub: @SupriyaKatiyar24
+GitHub: @sooyaaa98
 
 LinkedIn: Supriya Katiyar
 
