@@ -202,9 +202,9 @@ LinkedIn: Supriya Katiyar
 
 Email: katiyarsupriya2403@gmail.com
 
-LeetCode: Supriya_Katiyar
+RESUME_LINK : https://drive.google.com/file/d/1jm-ruY6dOUSlEKWAarnBEmwv79ivNssg/view?usp=drive_link
 
-HackerRank: katiyarsupriya21
+
 
 ⭐ If you find this project useful, please give it a star on GitHub!
 
